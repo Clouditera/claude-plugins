@@ -1,0 +1,19 @@
+{
+  "name": "clouditera-plugins",
+  "owner": {
+    "name": "Clouditera",
+    "email": "dev@clouditera.com"
+  },
+  "description": "Clouditera Claude Code 插件市场",
+  "plugins": [
+    {
+      "name": "x-search",
+      "source": {
+        "source": "github",
+        "repo": "Clouditera/x-search"
+      },
+      "description": "X/Twitter 搜索与获取插件，支持关键词搜索、推文获取、用户资料、对话线程追溯",
+      "version": "1.0.0"
+    }
+  ]
+}
